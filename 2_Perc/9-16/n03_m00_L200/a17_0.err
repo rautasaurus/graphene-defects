@@ -1,0 +1,22 @@
+/COM,ANSYS RELEASE 2021 R1           BUILD 21.1      UP20201109       21:36:06
+
+ *** WARNING ***                         CP =       7.672   TIME= 21:37:59
+ Material 1 has a negative DENS ( -24.733 ) at temperature 0.            
+
+ *** ERROR ***                           CP =       7.969   TIME= 21:38:11
+ Negative mass not allowed for element number 1.                         
+
+ *** ERROR ***                           CP =       8.109   TIME= 21:38:13
+ Negative mass not allowed for element number 715.                       
+
+ *** WARNING ***                         CP =      19.531   TIME= 21:38:58
+ The eigenproblem is ill-conditioned (relative residual from test linear 
+ solve: 2.328376E-03).  The accuracy of the solution may not be          
+ satisfactory.  Modifying the initial value of the frequency shift       
+ (FREQB in the MODOPT command) or changing the boundary conditions of    
+ the model might solve the problem.                                      
+                                                                         
+
+ *** WARNING ***                         CP =      20.734   TIME= 21:38:59
+ Fewer modes than the requested number of modes ( 12 ) were computed.    
+ There are only 2 modes beyond the begin frequency of FREQB= 0.          

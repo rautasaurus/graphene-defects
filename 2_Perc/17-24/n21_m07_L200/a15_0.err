@@ -1,0 +1,17 @@
+/COM,ANSYS RELEASE 2021 R1           BUILD 21.1      UP20201109       21:21:04
+
+ *** ERROR ***                           CP =       4.844   TIME= 21:21:51
+ Input Data for the Circular Solid Section type must be positive.        
+ Please check the input.                                                 
+
+ *** WARNING ***                         CP =     101.188   TIME= 21:25:22
+ The eigenproblem is ill-conditioned (relative residual from test linear 
+ solve: 1.628328E-03).  The accuracy of the solution may not be          
+ satisfactory.  Modifying the initial value of the frequency shift       
+ (FREQB in the MODOPT command) or changing the boundary conditions of    
+ the model might solve the problem.                                      
+                                                                         
+
+ *** WARNING ***                         CP =     111.406   TIME= 21:25:34
+ Fewer modes than the requested number of modes ( 12 ) were computed.    
+ There are only 1 modes beyond the begin frequency of FREQB= 0.          

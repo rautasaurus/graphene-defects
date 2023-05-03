@@ -1,0 +1,13 @@
+/COM,ANSYS RELEASE 2021 R1           BUILD 21.1      UP20201109       21:49:34
+
+ *** WARNING ***                         CP =      35.578   TIME= 21:52:43
+ The eigenproblem is ill-conditioned (relative residual from test linear 
+ solve: 1.741620E-03).  The accuracy of the solution may not be          
+ satisfactory.  Modifying the initial value of the frequency shift       
+ (FREQB in the MODOPT command) or changing the boundary conditions of    
+ the model might solve the problem.                                      
+                                                                         
+
+ *** WARNING ***                         CP =      39.281   TIME= 21:52:47
+ Fewer modes than the requested number of modes ( 12 ) were computed.    
+ There are only 1 modes beyond the begin frequency of FREQB= 0.          
